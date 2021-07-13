@@ -1,0 +1,32 @@
+@font-face {
+    src : url("../font/TMONBlack.ttf");
+    font-family: "font"
+}
+@font-face {
+    src : url("../font/DXMSubtitlesM.ttf");
+    font-family: "font1"
+}
+@font-face {
+    src : url("../font/THEHappyfruit.ttf");
+    font-family: "font2"
+}
+@font-face {
+    font-family: 'gmarket';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SEBANG_Gothic_Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2104@1.0/SEBANG_Gothic_Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ELAND_Choice_M';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts-20-12@1.0/ELAND_Choice_M.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
